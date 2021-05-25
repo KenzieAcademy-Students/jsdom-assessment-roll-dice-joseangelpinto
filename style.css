@@ -1,2 +1,17 @@
+/* Write your CSS Here. */
 
+button {
+    cursor: pointer;
+  }
+  
+  #graph {
+    display: flex;  
+  }
+  .newDiv_Style {
+    width: 300px;
+    height: 150px;
+    background-color: grey;
+    margin: 1w;
+  }
+  
  
